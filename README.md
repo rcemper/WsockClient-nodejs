@@ -1,3 +1,5 @@
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg?raw=true"/></p>
+
 It will demonstrate the wide range that is openend by making use   
 of the power embedded in Node.js and its adapter to **Caché, Ensemble, Health*,..**  
 Node / JavaScript have wide reputation to work as a WebSocket client.  
